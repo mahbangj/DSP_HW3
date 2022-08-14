@@ -1,4 +1,4 @@
-# DSP_HW3_ My codes are provided in Q folders above
+# codes are provided in Q folders above
 
 
 <div align="center">
